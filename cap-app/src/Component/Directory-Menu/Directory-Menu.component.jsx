@@ -1,6 +1,5 @@
 import React from "react";
 import "./Directory-Menu.styles.scss";
-import { fakeData } from "../../Data/Data.js";
 import MenuItem from "../Menu-Item/Menu-Item.component";
 import { selectDirectorySections } from "../../redux/directory/directory.selectors";
 import { createStructuredSelector } from "reselect";
