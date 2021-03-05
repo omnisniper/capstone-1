@@ -8,7 +8,7 @@ export const fakeData = [
     },
     {
         title: "Stellar Remnants",
-        imageUrl: "https://lh3.googleusercontent.com/proxy/gHGqNwdCgBDoI11IvrH2tDq-7MfEiEdLR_GErHNgBMMIGGx5vm9YvL_GByETooN46egNXGDMu_LIS6xtMRzHwxvWgH-tNpSjK_TPBtck12-gdoPXf1nEViHe93NXAgEOrG0BBnRw9WilxmOAd18CiNta7i9F9T6Vi7Cr5E5_Hgk55oh1CUPJ65VyFcFnc6fbaJGsCeokjD9Ryj_CKZW3ebEP0FPVqt5rMIH1JoiNKCKP7PBdRetzscdJfYyK9PElQ7GcUmtoOVO19qiWPhvGkOCRLYzrgYUsDqaqAxImwb0Pw3cGu9FWiZHnOM2r6dYbFBHVrh6dHl08jV_RSUOvfTLATv8aFhQofYg4qUeZt2vSZ0Ch-Y3Q_mJn4Cnt-LUutYKS0ak",
+        imageUrl: "https://miro.medium.com/max/640/1*eVPQMNeIxa4a81viqbthvw.jpeg",
         id: 2,
         size: "large",
         linkUrl: "shop/remnants",
